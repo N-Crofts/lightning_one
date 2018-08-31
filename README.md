@@ -40,3 +40,9 @@ Most popular features are map, filter, and reduce
 Functional Programming is a programming concept that avoids changing state and mutating data
 
 Newer versions of JS appear to have included these very features, making Lodash mostly obsolete 
+
+https://en.wikipedia.org/wiki/Lodash
+
+https://derickbailey.com/2016/09/12/does-es6-mean-the-end-of-underscore-lodash/
+
+https://codeburst.io/why-you-shouldnt-use-lodash-anymore-and-use-pure-javascript-instead-c397df51a66
